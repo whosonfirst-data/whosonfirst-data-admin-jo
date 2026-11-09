@@ -65,7 +65,7 @@
         "wk:page":"Al_Bassah"
     },
     "wof:country":"JO",
-    "wof:geomhash":"876cd705736a8fa148d9fb1761953f89",
+    "wof:geomhash":"15e89d6a8726487a2ed3efa245107d09",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     35.77692000000001,
     31.9362
 ],
-  "geometry": {"coordinates":[35.77692000000001,31.9362],"type":"Point"}
+  "geometry": {"coordinates":[35.77692,31.9362],"type":"Point"}
 }

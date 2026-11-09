@@ -65,7 +65,7 @@
         "wk:page":"Adh_Dhuhaybah"
     },
     "wof:country":"JO",
-    "wof:geomhash":"b9b9367d2d6bfdd71472346e5dfd3aea",
+    "wof:geomhash":"cf9998786b1047b8ad7b689bbcbc53c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     35.77095999999999,
     31.50978
 ],
-  "geometry": {"coordinates":[35.77095999999999,31.50978],"type":"Point"}
+  "geometry": {"coordinates":[35.77096,31.50978],"type":"Point"}
 }

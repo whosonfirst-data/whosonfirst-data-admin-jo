@@ -47,7 +47,7 @@
         "gn:id":250641
     },
     "wof:country":"JO",
-    "wof:geomhash":"207050b47cec6db4d9bda30d3cb5d405",
+    "wof:geomhash":"091af328b2c6c1e9cce65d8e30504ec6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     35.59542000000001,
     32.46388
 ],
-  "geometry": {"coordinates":[35.59542000000001,32.46388],"type":"Point"}
+  "geometry": {"coordinates":[35.59542,32.46388],"type":"Point"}
 }

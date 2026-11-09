@@ -62,7 +62,7 @@
         "wk:page":"Al_%27Arid"
     },
     "wof:country":"JO",
-    "wof:geomhash":"1ebc4837742253003f61bce76b65f948",
+    "wof:geomhash":"c10404b04059781a27997eded6d57896",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     35.65736,
     31.55839000000001
 ],
-  "geometry": {"coordinates":[35.65736,31.55839000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.65736,31.55839],"type":"Point"}
 }

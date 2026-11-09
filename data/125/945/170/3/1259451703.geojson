@@ -65,7 +65,7 @@
         "wk:page":"Al_Judayyidah"
     },
     "wof:country":"JO",
-    "wof:geomhash":"a92957195a1fdc038fb87dc0fff4f3f7",
+    "wof:geomhash":"b59ac0a100470d6804ba9dc16352f1c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     35.64944000000001,
     31.53543
 ],
-  "geometry": {"coordinates":[35.64944000000001,31.53543],"type":"Point"}
+  "geometry": {"coordinates":[35.64944,31.53543],"type":"Point"}
 }

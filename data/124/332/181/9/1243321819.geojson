@@ -62,7 +62,7 @@
         "wk:page":"Al_Mathluthah"
     },
     "wof:country":"JO",
-    "wof:geomhash":"27a17c7ee6b9919340422e7e19dc38cb",
+    "wof:geomhash":"74379f82187c37dedf2bd169c445861e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     35.74847000000001,
     31.482
 ],
-  "geometry": {"coordinates":[35.74847000000001,31.482],"type":"Point"}
+  "geometry": {"coordinates":[35.74847,31.482],"type":"Point"}
 }

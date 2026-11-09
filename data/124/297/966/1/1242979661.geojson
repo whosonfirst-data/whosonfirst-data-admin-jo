@@ -68,7 +68,7 @@
         "wk:page":"Mahis"
     },
     "wof:country":"JO",
-    "wof:geomhash":"65795af685542703062cbff5b7cc23b2",
+    "wof:geomhash":"ddbe7f3d7eebfb2669fadda65f00c252",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,5 +93,5 @@
     35.76987000000001,
     31.98646
 ],
-  "geometry": {"coordinates":[35.76987000000001,31.98646],"type":"Point"}
+  "geometry": {"coordinates":[35.76987,31.98646],"type":"Point"}
 }

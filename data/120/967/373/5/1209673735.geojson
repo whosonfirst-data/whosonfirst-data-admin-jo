@@ -57,7 +57,7 @@
         "wk:page":"Halaq_ash_Shuqayq"
     },
     "wof:country":"JO",
-    "wof:geomhash":"dba40c085773f8da703756078e8f799d",
+    "wof:geomhash":"bf75345f6d3e47f686747b80684f19b9",
     "wof:hierarchy":[
         {
             "country_id":85632425,
@@ -80,5 +80,5 @@
     35.72389000000001,
     31.49417
 ],
-  "geometry": {"coordinates":[35.72389000000001,31.49417],"type":"Point"}
+  "geometry": {"coordinates":[35.72389,31.49417],"type":"Point"}
 }

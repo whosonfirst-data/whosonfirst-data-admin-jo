@@ -56,7 +56,7 @@
         "wk:page":"Kufayr_al_Wakhyan"
     },
     "wof:country":"JO",
-    "wof:geomhash":"6ee46895e137181d7741b34832b731ae",
+    "wof:geomhash":"fa79ed2997b51b8a2351b8668e2fac4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     35.76922000000001,
     31.74909
 ],
-  "geometry": {"coordinates":[35.76922000000001,31.74909],"type":"Point"}
+  "geometry": {"coordinates":[35.76922,31.74909],"type":"Point"}
 }

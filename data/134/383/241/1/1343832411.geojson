@@ -46,7 +46,7 @@
         "wk:page":"Khirbat_al_Wahadinah"
     },
     "wof:country":"JO",
-    "wof:geomhash":"f693a881def30e359ae1d11f4544adf9",
+    "wof:geomhash":"c40a9ff78c922cc04845155f9765a74a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     35.64309,
     32.32615999999999
 ],
-  "geometry": {"coordinates":[35.64309,32.32615999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.64309,32.32616],"type":"Point"}
 }
