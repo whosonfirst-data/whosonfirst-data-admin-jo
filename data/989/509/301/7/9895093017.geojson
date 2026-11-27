@@ -1,0 +1,73 @@
+{
+  "id": 9895093017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.84645,31.90274,35.84645,31.90274",
+    "geom:latitude":31.90274,
+    "geom:longitude":35.84645,
+    "gn:population":82788,
+    "iso:country":"JO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308287: name \"Marj Al Hamam\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308287"
+        },
+        {
+            "citation":"GeoNames populated place 13308287: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308287"
+        },
+        {
+            "citation":"GeoNames populated place 13308287: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308287"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672627 (Amman), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425,
+        85672627,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308287
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"c68b6f44cb083fed6b02bb3fc559f7a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":9895093017,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":9895093017,
+    "wof:lastmodified":1795747420,
+    "wof:name":"Marj Al Hamam",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.84645,
+    31.90274,
+    35.84645,
+    31.90274
+],
+  "geometry": {"coordinates":[35.84645,31.90274],"type":"Point"}
+}
